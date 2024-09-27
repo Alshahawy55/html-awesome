@@ -1,2 +1,2 @@
-# html-awesome
-An awesome website that knows exactly how awesome you are!
+# Portfolio
+A startup portfolio just for the fun of it.
